@@ -1,4 +1,4 @@
-# image: taccsciapps/abaco_classifier
+# image: jstubbs/sgci-classifier
 
 FROM tensorflow/tensorflow:1.5.0-py3
 

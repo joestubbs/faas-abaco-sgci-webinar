@@ -5,7 +5,7 @@
 # containing a URL to an image to classify.
 #
 # Example invocation:
-# docker run -e MSG=https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12231410/Labrador-Retriever-On-White-01.jpg taccsciapps/abaco_classifier
+# docker run -e MSG=https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12231410/Labrador-Retriever-On-White-01.jpg jstubbs/sgci-classifier
 #
 #
 # print the special MSG variable:
